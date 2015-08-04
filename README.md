@@ -5,7 +5,7 @@ From Powershell (start -> run -> powershell.exe)
 
 >Set-ExecutionPolicy RemoteSigned
 
->PS C:\users\admin\Desktop> Import-Module ./key.ps1
+>Import-Module ./key.ps1
 
 >Get-WindowsKey
 
