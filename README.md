@@ -31,6 +31,7 @@ Tip to get Windows 8 key from BIOS
 
 Boot to linux 
 >ls /sys/firmware/acpi/tables
+
 >sudo xxd /sys/firmware/acpi/tables/MSDM
 
 
