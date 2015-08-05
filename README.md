@@ -27,5 +27,11 @@ $regPath = "OLDPC\Microsoft\Windows NT\CurrentVersion"
 
 All credit to the original developer jakob@bindslet.dk. Have put it here on Github for my own personal access.
 
+Tip to get Windows 8 key from BIOS
+
+Boot to linux 
+>ls /sys/firmware/acpi/tables
+>sudo xxd /sys/firmware/acpi/tables/MSDM
+
 
 
